@@ -5,7 +5,7 @@ function criaCalculadora() {
 
     inicia() {
       this.cliqueBotoes();
-      this.precionaEnter()
+      this.pressionaEnter()
     },
     pressionaEnter() {
       this.display.addEventListener('keyup', e => {
