@@ -1,4 +1,1 @@
-// 1
-// 2
-// 3
-console.log('4')
+import './assets/css/style.css';
