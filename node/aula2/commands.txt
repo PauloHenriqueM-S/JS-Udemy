@@ -1,0 +1,11 @@
+npm init -y
+npm i/install "dependence"
+npm i/install "dependence" -E // Torna a versão fixa 
+npm i/install "dependence"@"version" // instala na versão desejada ou @latest para a versão mais recente
+npm i/install "dependence" --save-dev // Salva como dependencia de desenvolvimento
+npm i/install "dependence" --save-prod // Salva como dependencia de produção
+npm update // Procura atualizações nas dependencias
+npm uninstall "dependence" // Desinstala a dependencia
+npm ls // Mostra a lista completa de dependencias
+npm ls --depth=0 // Mostra a lista de dependencias que instalou
+npm outdated // Mostra dependencias desatualizadas 
