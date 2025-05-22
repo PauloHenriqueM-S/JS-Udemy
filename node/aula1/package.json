@@ -11,6 +11,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.10.0",
   "dependencies": {
+    "aula1": "file:",
     "axios": "^1.9.0"
   }
 }
